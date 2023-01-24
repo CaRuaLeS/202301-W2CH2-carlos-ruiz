@@ -23,7 +23,7 @@ Entonces el resultado será \<Result\>
 
 Crea un repo como siempre, con los mismos hook husky que anteriormente
 
-- Creamos proyecto incluido ESLint (airbnb) y prettier
+- Creamos proyecto incluido ESLint (XO) y prettier
 - Creamos el repo, protegemos la rama y añadimos husky
 - Creamos la rama de trabajo:
 - Comprobamos el código con sonarCloud
